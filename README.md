@@ -10,7 +10,8 @@ projeto de Ciência de Dados em Python focando em estatística preditiva, que pr
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/keniakmr/imdb-predicao.git
+   git clone https://github.com/keniakmr/lh_cd_keniamariaramos_cienciadedados.git
    cd imdb-predicao
+
 
 
